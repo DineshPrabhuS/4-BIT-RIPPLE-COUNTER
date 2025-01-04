@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
+To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables.
 
 **SOFTWARE REQUIRED:**
 
@@ -24,17 +24,30 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+1. Type the program in Quartus software.
+2. Compile and run the program.
+3. Generate the RTL schematic and save the logic diagram.
+4. Create nodes for inputs and outputs to generate the timing diagram.
+5. For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
+```
 
- Developed by: RegisterNumber:
+```
+ Developed by: DINESH PRABHU S
+ RegisterNumber: 24004388
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
+
+
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
+
+
 **RESULTS**
+
+Successfully implemented 4 Bit Ripple Counter using verilog and validated their functionality using their functional tables.
